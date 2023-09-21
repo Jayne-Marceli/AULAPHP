@@ -8,7 +8,7 @@
 	        </ol>
 	        <div class="carousel-inner">
 	          <div class="carousel-item active">
-	            <img class="first-slide mw-100" src="img/carr001.jpg" alt="First slide">
+	            <img class="first-slide w-100" src="img/carr001.jpg" alt="First slide">
 	            <div class="container">
 	              <div class="carousel-caption">
 	                <h1 class= "d-none d-md-block">Manchete</h1>
@@ -18,7 +18,7 @@
 	            </div>
 	          </div>
 	          <div class="carousel-item">
-	            <img class="first-slide mw-100" src="img/carr002.jpg" alt="First slide">
+	            <img class="first-slide w-100" src="img/carr002.jpg" alt="First slide">
 	            <div class="container">
 	              <div class="carousel-caption">
 	                <h1>Outra manchete</h1>
@@ -28,7 +28,7 @@
 	            </div>
 	          </div>
 	          <div class="carousel-item">
-	            <img class="first-slide mw-100" src="img/carr003.jpg" alt="First slide">
+	            <img class="first-slide w-100" src="img/carr003.jpg" alt="First slide">
 	            <div class="container">
 	              <div class="carousel-caption">
 	                <h1>Outra manchete, pra garantir</h1>
